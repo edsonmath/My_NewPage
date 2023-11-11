@@ -1,4 +1,11 @@
-# My_NewPage
-Welcome to my homepage. 
-Here you will find my publications, my research interests, lecture courses, etc. 
--- Edson de Faria, Professor of Mathematics, University of Sao Paulo.
+## Edson de Faria's Webpage
+
+Welcome to my homepage.I am a professor of Mathematics at the University of Sao Paulo, Brazil.
+
+
+Here you will find information about:
+
+- My research interests.
+- My publications
+- My lecture courses
+
